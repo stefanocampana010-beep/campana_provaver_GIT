@@ -3,3 +3,4 @@ attivita: under 6 orari:12-13
 attivita: under 10 orari:13-14
 attivita: under 14 orari:14-15
 attivita: under 18 orari:15-16
+assegnazione premi+merenda orari:16
